@@ -17,6 +17,8 @@ Source: [arduino-display-module.ino](arduino-display-module.ino)
 
 ### Pin mapping (as coded)
 
+![Circuit Diagram](circuit-diagram.png)
+
 | Signal | Arduino pin | Macro |
 | --- | ---: | --- |
 | TFT CS | 10 | `PIN_TFT_CS` |
